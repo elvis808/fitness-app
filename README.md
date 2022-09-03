@@ -3,6 +3,7 @@
 - This fitness application utilizes React and mulitple API with the help of RapidAPI to showcase different styles of exercises with equipment.
 - Shows real time demonstration on how to perform workouts and what muscle the workout is hitting.
   - Also provides similar workouts in relation with workout provided.
+  - Inaddition to the Youtube search API that was added, you will shared playable youtube videos at a click of a button.
 
 
 [LIVE DEMO](https://hella-fit.netlify.app/)
