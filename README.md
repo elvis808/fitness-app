@@ -1,4 +1,4 @@
-# Fitness / Exercise Application
+# Hella Fit - Fitness / Exercise Application
 
 - This fitness application utilizes React and mulitple API with the help of RapidAPI to showcase different styles of exercises with equipment.
 - Shows real time demonstration on how to perform workouts and what muscle the workout is hitting.
