@@ -6,6 +6,7 @@
   - Inaddition to the Youtube search API that was added, you will have shared playable youtube videos at a click of a button.
 
 API is currently overloaded, opted in for free version through RapidAPI.
+  - 500 quotas a day
 
 [LIVE DEMO](https://hella-fit.netlify.app/)
 
