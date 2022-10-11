@@ -8,7 +8,7 @@
 API is currently overloaded, opted in for free version through RapidAPI.
   - 500 quotas a day
   - Workouts with demonstration
-  - JavaScript, HTML, CSS
+  - JavaScript, ReactJS, HTML, CSS
 
 [LIVE DEMO](https://hella-fit.netlify.app/)
 
