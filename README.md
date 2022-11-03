@@ -6,7 +6,7 @@
   - Inaddition to the Youtube search API that was added, you will have shared playable youtube videos at a click of a button.
 
 API is currently overloaded, opted in for free version through RapidAPI.
-  - 500 quotas a day
+  - 500 quotas a day 
   - Workouts with demonstration
   - JavaScript, ReactJS, HTML, CSS 
 
