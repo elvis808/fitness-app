@@ -10,6 +10,6 @@ API is currently overloaded, opted in for free version through RapidAPI.
   - Workouts with demonstrations
   - JavaScript, ReactJS, HTML, CSS 
 
-[LIVE DEMO](https://hella-fit.netlify.app/)
+[LIVE DEMO](https://hella-fit.netlify.app/) 
 
 <img src='https://user-images.githubusercontent.com/67409144/188248722-4e6d625b-ebd1-4e2d-b467-17a82abc36f2.png' alt='' />
